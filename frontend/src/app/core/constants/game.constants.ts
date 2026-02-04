@@ -1,0 +1,9 @@
+export const GAME_CONSTANTS = {
+  MAX_MISTAKES: 6,
+  SCORE_PER_WIN: 10,
+  MIN_PLAYERS: 2,
+  MAX_PLAYERS: 10,
+  RESTART_DELAY: 3000,
+  ALPHABET: 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split(''),
+  CURATED_COLORS: ['#f8fafc', '#f1f5f9', '#eff6ff', '#f0f9ff', '#f0fdf4']
+};
